@@ -1,0 +1,9 @@
+{
+  "name": "mint-example-routing",
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
